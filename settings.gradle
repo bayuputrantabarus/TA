@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Sistem Pakar Diagnosis Covid 19"
